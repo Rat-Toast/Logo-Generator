@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "graceful-fs": "^4.2.11",
+    "inquirer": "^8.2.4"
+  }
 }
